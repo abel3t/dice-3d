@@ -1,0 +1,100 @@
+{
+  "name": "grrd's Dice",
+  "short_name": "Dice",
+  "version": "3.0",
+  "description": "grrd's Dice is een 3D dobbelstenen app en een Yahtzee spel voor 1-5 spelers.",
+  "default_locale": "nl",
+  "icons": [
+    {
+      "src": "../i/icon_16.png",
+      "type": "image/png",
+      "sizes": "16x16"
+    },
+    {
+      "src": "../i/icon_32.png",
+      "type": "image/png",
+      "sizes": "32x32"
+    },
+    {
+      "src": "../i/icon_48.png",
+      "type": "image/png",
+      "sizes": "48x48"
+    },
+    {
+      "src": "../i/icon_60.png",
+      "type": "image/png",
+      "sizes": "60x60"
+    },
+    {
+      "src": "../i/icon_64.png",
+      "type": "image/png",
+      "sizes": "64x64"
+    },
+    {
+      "src": "../i/icon_96.png",
+      "type": "image/png",
+      "sizes": "96x96"
+    },
+    {
+      "src": "../i/icon_128.png",
+      "type": "image/png",
+      "sizes": "128x128"
+    },
+    {
+      "src": "../i/icon_192.png",
+      "type": "image/png",
+      "sizes": "192x192"
+    },
+    {
+      "src": "../i/icon_256.png",
+      "type": "image/png",
+      "sizes": "256x256"
+    }
+  ,
+    {
+      "src": "../i/icon_512.png",
+      "type": "image/png",
+      "sizes": "512x512"
+    }
+  ,
+    {
+      "src": "../i/icon_maskable.png",
+      "type": "image/png",
+      "sizes": "370x370",
+      "purpose": "maskable any"
+    }
+  ],
+  "screenshots": [
+    {
+      "src": "../i/screenshots/Dice1_nl.png",
+      "type": "image/png",
+      "sizes": "1280x800"
+    },
+    {
+      "src": "../i/screenshots/Dice2_nl.png",
+      "type": "image/png",
+      "sizes": "1280x800"
+    },
+    {
+      "src": "../i/screenshots/Dice3.png",
+      "type": "image/png",
+      "sizes": "1280x800"
+    },
+    {
+      "src": "../i/screenshots/Dice4.png",
+      "type": "image/png",
+      "sizes": "1280x800"
+    },
+    {
+      "src": "../i/screenshots/Dice5.png",
+      "type": "image/png",
+      "sizes": "1280x800"
+    }
+  ],
+  "categories": ["games", "dice games", "casual games", "family games", "spelletjes dobbelstenen", "familiespelletjes"],
+  "background_color": "#434343",
+  "theme_color": "#434343",
+  "display": "standalone",
+  "start_url": "../index.html",
+  "author": "Gerard Tyedmers"
+}
